@@ -3,10 +3,11 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:eidabdullahi10.com)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/EidAbdullahi/)
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=EidAbdullahi"></a> 
-:wave: Hi there, My name is Eid Abdullahi.😀 I'm 24 years old, I'm a Software Engineer. -->
+:wave: Hi there, My name is Eid Abdullahi.😀 I'm 24 years old, I'm a Software Engineer.
 I've profound knowledge in Django Framework, Software Development. 
-Currently, I completed Moringa school in Computer Science from. 
-I'm interested in doing research on text and image related problems. 
+Currently, I completed Moringa school in Computer Software from. 
+I'm interested in engaging, identifying, designing, installing and testing a software system. 
+also doing research on text and image related problems. 
 I love to work with new technologies and playing with Data and AI.🤖
 
 <h2>My Tech Stack</h2>
